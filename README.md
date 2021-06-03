@@ -1,4 +1,4 @@
-# cit281-lab6 
+# CIT281 Lab-6 
 Purpose of this lab:
 - To gain experience using GitHub by working through "Introduction to GitHub Course". 
 - To gain experience creating and testing "Classes" 
